@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Shazam.NET.Application": {
+      "commandName": "Project"
+    }
+  }
+}

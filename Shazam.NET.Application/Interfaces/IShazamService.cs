@@ -24,7 +24,7 @@ namespace Shazam.NET
         /// </summary>
         /// <param name="term"></param>
         /// <returns></returns>
-        public Task<object> SearchAsync(string term);
+        public Task<SearchResponse> SearchAsync(string term);
 
         /// <summary>
         /// Get suggestions by word or phrase
